@@ -9,6 +9,17 @@ pluginManagement {
             mavenContent {
                 snapshotsOnly()
             }
+
+
+
+
+
+
+
+
+
+
+
         }
     }
 }
