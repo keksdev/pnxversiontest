@@ -5,6 +5,7 @@ pluginManagement {
         mavenLocal()
         maven("https://jitpack.io")
         maven("https://repo.opencollab.dev/maven-releases/")
+
         maven("https://repo.opencollab.dev/maven-snapshots/") {
             mavenContent {
                 snapshotsOnly()
