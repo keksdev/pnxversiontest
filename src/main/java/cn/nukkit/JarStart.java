@@ -10,6 +10,14 @@ public final class JarStart {
         try {
 
 
+
+
+
+
+
+
+
+            
             
             Thread.currentThread().getContextClassLoader().loadClass("joptsimple.OptionSpec");
         } catch (ClassNotFoundException | java.lang.NoClassDefFoundError e) {
